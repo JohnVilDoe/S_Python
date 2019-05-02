@@ -5,6 +5,7 @@ Purpose      : Change bankaccount(s) based on XML-file(s) from sFTP server
 Version date : 20180111
 Version upd  : Changes to run on the server
 --Process was based on XLS files and this has changed because we receive XML files form ING now
+-- this is a test with GitHub
 """
 
 import sys
